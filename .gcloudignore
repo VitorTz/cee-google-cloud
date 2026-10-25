@@ -1,0 +1,16 @@
+#!include:.gitignore
+
+.git/
+.venv/
+venv/
+node_modules/
+dist/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pyc
+*.zip
+.env
+.env.*
+!*.env.example

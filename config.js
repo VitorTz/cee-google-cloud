@@ -1,0 +1,2 @@
+export const SUPABASE_URL = 'https://wiligdvkjpdfhscihwva.supabase.co';
+export const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndpbGlnZHZranBkZmhzY2lod3ZhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ0MDczMjcsImV4cCI6MjA5OTk4MzMyN30.icyCigbCCPzR03EzCvXyDZanA_C6utcuUHjHOswOUXw';
